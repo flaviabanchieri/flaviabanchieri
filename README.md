@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a fullstack developer on Infortech-MS<br>👯 I’m looking to collaborate on various projects and learn everyday<br>🌱 I’m currently learning PHP and React.<br>⚡ Fact: I'm from a country where there is a salt flat.
+🔭 I’m currently a fullstack developer on Infortech-MS<br>👯 I’m looking to collaborate on various projects and learn everyday<br>🌱 I’m currently learning about Cybersecurity.<br>⚡ Fact: I'm from a country where there is a salt flat.
 
 
 ## 🌐 Socials:
